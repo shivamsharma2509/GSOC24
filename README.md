@@ -24,4 +24,26 @@ The objective of this project is to add OAuth2 support for using printers and sc
 - Develop a local server in C to handle OAuth2 callbacks.
 - Ensure seamless integration with CPDB and CUPS.
 - Provide a user-friendly interface for managing online accounts within the print dialog.
+- Setup GOA OAuth based D-bus system.
+
+## Implementation Details
+
+1. OAuth2 flow implementation: It includes initializing GOA client, establishing connection between client and auth server and initiating token exchange.
+2. Local server setup for callbacks: The local server setup involved using libmicrohttpd to create an HTTP server on port 8080, handling OAuth2 callback requests, and processing authorization codes to obtain access tokens.
+3. Merging OAuth2 code with CPDB: It contains complete OAuth setup which is added to CPDB for client authentication.
+
+## Challenges and Solutions
+
+ - Token handdling: Managing OAuth2 tokens securely was challenging. Implemented secure storage and retrieval mechanisms for tokens.
+ - Merging it to CPDB: Initially I was getting lots of error while merging it to CPDB then I made changes to makefile and merged the OAuth code with CPDB.
+
+## Outcomes
+
+The integration successfully streamlined the authentication process, reducing the time required for users to log in to their online accounts from within the print dialog. User feedback indicated a significant improvement in the overall user experience.
+
+Here is the screenshot of the user interface for authorization:
+
+<p align="center">
+<img src="">
+</p>
 
