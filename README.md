@@ -53,4 +53,7 @@ The integration successfully streamlined the authentication process, reducing th
    <img src = "https://github.com/shivamsharma2509/GSOC24/blob/main/img/OAuth_Flw.png">
    </p>
 
+## Acknowledgement
 
+I am deeply grateful to the OpenPrinting for giving me the incredible opportunity to participate in Google Summer of Code (GSoC) program. My mentors, [Till Kamppeter] () and Deepak Patankar helped me alot during this journey and because of there guidance and support I was able to contribute.
+ 
