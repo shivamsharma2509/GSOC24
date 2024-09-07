@@ -5,7 +5,7 @@
 - **Organization:** The Linux Foundation <br/>
 - **Project:** User Interfaces for using OAuth2 with Printers and Scanners <br/>
 - **Project Page:** [Click here](https://wiki.linuxfoundation.org/gsoc/google-summer-code-2024-openprinting-projects) <br/>
-- **Project Repository:** [Click here]() <br/>
+- **Project Repository:** [Click here](https://github.com/shivamsharma2509/CPDB_Backend_OAuthSupport/tree/main) <br/>
 - **Proposal:** [Click Here]() <br/>
 
 ## About Me
