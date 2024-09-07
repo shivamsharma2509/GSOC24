@@ -41,9 +41,16 @@ The objective of this project is to add OAuth2 support for using printers and sc
 
 The integration successfully streamlined the authentication process, reducing the time required for users to log in to their online accounts from within the print dialog. User feedback indicated a significant improvement in the overall user experience.
 
-Here is the screenshot of the user interface for authorization:
+- Here is the screenshot of the user interface for authorization:
 
-<p align="center">
-<img src="https://github.com/shivamsharma2509/GSOC24/blob/main/demo.png">
-</p>
+  <p align="center">
+  <img src="https://github.com/shivamsharma2509/GSOC24/blob/main/demo.png">
+  </p>
+
+- Here is the OAuth workflow
+
+   <p align="center">
+   <img src = "">
+   </p>
+
 
