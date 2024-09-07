@@ -63,5 +63,5 @@ The setup of local server and token exchange is successfully accomplished. Howev
 
 ## Acknowledgement
 
-I am deeply grateful to the OpenPrinting for giving me the incredible opportunity to participate in Google Summer of Code (GSoC) program. My mentors, [Till Kamppeter] (https://github.com/tillkamppeter) and Deepak Patankar helped me alot during this journey. These project wouldn't have been possible without both of you.
+I am deeply grateful to the OpenPrinting for giving me the incredible opportunity to participate in Google Summer of Code (GSoC) program. My mentors, [Till Kamppeter](https://github.com/tillkamppeter) and Deepak Patankar helped me alot during this journey. These project wouldn't have been possible without both of you.
 The weekly project sync with Deepak helped me achieve most of the goals.
