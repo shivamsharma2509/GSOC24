@@ -50,7 +50,7 @@ The integration successfully streamlined the authentication process, reducing th
 - Here is the OAuth workflow
 
    <p align="center">
-   <img src = "">
+   <img src = "https://github.com/shivamsharma2509/GSOC24/blob/main/img/OAuth_Flw.png">
    </p>
 
 
