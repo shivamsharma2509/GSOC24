@@ -44,7 +44,7 @@ The integration successfully streamlined the authentication process, reducing th
 - Here is the screenshot of the user interface for authorization:
 
   <p align="center">
-  <img src="https://github.com/shivamsharma2509/GSOC24/blob/main/img/demo.png">
+  <img src="https://github.com/shivamsharma2509/GSOC24/blob/main/img/demo1.png">
   </p>
 
 - Here is the OAuth workflow
@@ -53,6 +53,8 @@ The integration successfully streamlined the authentication process, reducing th
    <img src = "https://github.com/shivamsharma2509/GSOC24/blob/main/img/OAuth_Flw.png">
    </p>
 
+- Here is the video of working demonstration of OAuth support: [Demo Video]() 
+
 ## Future Scope
 
 The setup of local server and token exchange is successfully accomplished. However, there are several exciting improvements that could enhance the OAuth2 support:
@@ -60,6 +62,8 @@ The setup of local server and token exchange is successfully accomplished. Howev
  1. Implementing support for additional online services: We can implement many more online services in the authentication page by allowing user to use different methods for authentication.
  2. Enhance security for token storage: Security can not be compromised so I will add more security layers for token storage.
  3. Develop a graphival interface for managing OAuth2 tokens.
+
+Further implementation will be done within 1-2 months. 
 
 ## Acknowledgement
 
