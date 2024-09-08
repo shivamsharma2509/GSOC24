@@ -30,7 +30,7 @@ The objective of this project is to add OAuth2 support for using printers and sc
 
 1. OAuth2 flow implementation: It includes initializing GOA client, establishing connection between client and auth server and initiating token exchange.
 2. Local server setup for callbacks: The local server setup involved using libmicrohttpd to create an HTTP server on port 8080, handling OAuth2 callback requests, and processing authorization codes to obtain access tokens.
-3. Merging OAuth2 code with CPDB: It contains complete OAuth setup which is added to CPDB for client authentication.
+3. Merging OAuth2 code with CPDB: It contains complete OAuth setup which will be added to CPDB for client authentication.
 
 ## Challenges and Solutions
 
