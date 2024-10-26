@@ -14,7 +14,7 @@
 
 ## About Me
 
-Hi, I am Shivam Sharma, currently working at Cognizant Technology Solutions as Engineer Trainee. I was selected as a GSOC 2024 contributor for OpenPrinting @ The Linux Foundation. My project was adding OAuth2 support for using printers and scanners to CUPS. I have managed to add OAuth2 support for client verification to keep client data secure.
+Hi, I am Shivam Sharma, currently working at Cognizant Technology Solutions. I was selected as a GSOC 2024 contributor for OpenPrinting @ The Linux Foundation. My project was adding OAuth2 support for using printers and scanners to CUPS. I have managed to add OAuth2 support for client verification to keep client data secure.
 
 ## Description
 
@@ -26,6 +26,7 @@ The objective of this project is to add OAuth2 support for using printers and sc
 
 - Integrate OAuth2 authentication using GNOME Online Accounts (GOA).
 - Develop a local server in C to handle OAuth2 callbacks.
+- Ensure access token will be expired within a time frame for security purpose.
 - Ensure seamless integration with CPDB and CUPS.
 - Provide a user-friendly interface for managing online accounts within the print dialog.
 - Setup GOA OAuth based D-bus system.
@@ -65,9 +66,9 @@ The setup of local server and token exchange is successfully accomplished. Howev
 
  1. Implementing support for additional online services: We can implement many more online services in the authentication page by allowing user to use different methods for authentication.
  2. Enhance security for token storage: Security can not be compromised so I will add more security layers for token storage.
- 3. Develop a graphival interface for managing OAuth2 tokens.
+ 3. Develop a graphical interface for managing OAuth2 tokens.
 
-Further implementation will be done within 1-2 months. 
+Further implementation will be done within 1 month. 
 
 ## Acknowledgement
 
