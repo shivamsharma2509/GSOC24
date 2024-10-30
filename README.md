@@ -62,7 +62,7 @@ The integration successfully streamlined the authentication process, reducing th
    <img src = "https://github.com/shivamsharma2509/GSOC24/blob/main/img/OAuth_Flw.png">
    </p>
 
-- Here is the video of working demonstration of OAuth support: [Demo Video](https://drive.google.com/file/d/1OtqpKDWYZo6l8juDCsgBF-4WVcFzTVao/view?usp=drive_link) 
+- Here is the video of working demonstration of OAuth support: [Demo Video](https://drive.google.com/file/d/1AE3plQhLTtnd6kuDA0tr70_1wVn6ukb0/view?usp=drive_link) 
 
 ## Future Scope
 
